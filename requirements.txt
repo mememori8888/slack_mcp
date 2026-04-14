@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+slack_bolt
+google-generativeai
+google-api-python-client
